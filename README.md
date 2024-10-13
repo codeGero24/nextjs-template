@@ -1,5 +1,4 @@
-# Wine Cellar - Web site
-Realizzazione sito web dedicato a una CANTINA VINICOLA, progettato per presentare i vini e offrire ai clienti la possibilità di acquistarli direttamente online. Il sito sarà caratterizzato da un design elegante e moderno, che rispecchi l'identità e la qualità della cantina, creando un'esperienza visiva coinvolgente e sofisticata.
+# NextJs Template - Inital setup
 
 ## Getting Started
 
